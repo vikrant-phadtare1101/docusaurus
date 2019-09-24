@@ -7,6 +7,7 @@
 
 const React = require('react');
 const fs = require('fs');
+const React = require('react');
 const classNames = require('classnames');
 
 const HeaderNav = require('./nav/HeaderNav.js');
